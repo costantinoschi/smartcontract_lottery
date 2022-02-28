@@ -11,7 +11,7 @@ How do we want to test this?
     First step setting up your project: 
     1. `brownie init`
            
-        or use [chainlink-mix](https://github.com/smartcontractkit/chainlink-mix/).
+        or use [chainlink-mix](https://github.com/smartcontractkit/chainlink-mix).
        
     2. `brownie bake chainlink-mix & mv chainlink (project_name)`
 
