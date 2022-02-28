@@ -9,5 +9,5 @@ How do we want to test this?
     3. `testnet`
 
 
-SETUP
+
     
