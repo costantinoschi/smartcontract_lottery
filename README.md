@@ -7,11 +7,11 @@ How do we want to test this?
     1. `mainnet-fork`
     2. `development` with mocks 
     3. `testnet`
-# SETUP
+# Setup
     First step setting up your project: 
     1. `brownie init`
            
-        or use [chainlink-mix]:
+        or use [chainlink-mix](https://github.com/smartcontractkit/chainlink-mix):
        
     2. `brownie bake chainlink-mix & mv chainlink (project_name)`
 
@@ -26,11 +26,11 @@ How do we want to test this?
 
 # Usage
 
-    ## Compile
-        `brownie compile`
+   ## Compile
+      `brownie compile`
     
-    ## Test
-        `brownie test --network <choose_network> -s`
+   ## Test
+      `brownie test --network <choose_network> -s`
     
-    ## Deploy
-        `brownie run scripts/deploy_lottery.py --network <choose_network>`
+   ## Deploy
+      `brownie run scripts/deploy_lottery.py --network <choose_network>`
