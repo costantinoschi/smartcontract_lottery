@@ -3,9 +3,6 @@
 3. The lottery will select a random winner 
 
 
-    1. `mainnet-fork`
-    2. `development` with mocks 
-    3. `testnet`
 # Setup
     First step setting up your project: 
     1. `brownie init`
